@@ -1,0 +1,8 @@
+Added Component: Designator=IC1(SOT23-6N)
+Add component (AddParameter): Name = "BOM名称"; Value = "可调升压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入的买家，请立即申请退款，本店现金奖励20~1000元"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-8_EP)
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC-8_EP)
+Added Class: Name=BATTERY
+Added Room: Name=BATTERY
