@@ -14,4 +14,5 @@
 
 buck降压 + 充电管理 + boost升压 + pmos切换
 <br>
+![PCB](/img/2.jpg "PCB")
 ![成品](/img/1.jpg "成品")
