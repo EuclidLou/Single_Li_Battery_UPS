@@ -17,6 +17,5 @@
 * 5V->TP4056 
 * 3.7V->12V
 * Pmos Switch
-<br>
 ![PCB](/img/3.jpg "PCB")
 ![成品](/img/1.jpg "成品")
